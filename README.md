@@ -3,6 +3,8 @@
 
 ## .NET免杀方法系列课程在线阅读
 + [.NET WebShell 免杀系列之Unicode编码](https://mp.weixin.qq.com/s/VIsJlDmWGD0QcgBDDsRP9g)
++ [.NET WebShell 免杀系列之win32_Process](https://mp.weixin.qq.com/s/H_-g5xcdqMaXmysBnTBUug)
++ [.NET WebShell 免杀系列之XamlReader](https://mp.weixin.qq.com/s/xl3sa4cyFOuEocZSGtq6bA)
 
 
 ## dotNet安全矩阵知识星球 
