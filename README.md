@@ -8,6 +8,7 @@
 
 ## .NET各种姿势绕过系列课程在线阅读
 + [.NET 文件上传多个场景绕过预编译限制获取Shell](https://mp.weixin.qq.com/s/o9qZefyIAnaFWSME0g1Jzw)
++ [.NET WebShell 免杀系列Ⅱ之Tricks分享](https://mp.weixin.qq.com/s/3pFFyJF3U9-sIHEF-T4wPA)
 
 
 ## dotNet安全矩阵知识星球 
