@@ -12,6 +12,7 @@
 + [老树开新花 .NET MVC上传绕过解析ascx](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247486399&idx=1&sn=1b891333ceb6ee6aa39d416a5a662e68&chksm=fa5aa552cd2d2c4455ca64d8741fadb469410b5827610d1f18201fff0ea8542068fddbbf5ee3&token=135931015&lang=zh_CN#rd)
 + [利用VB.NET Shell方法绕过防护执行命令](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247486577&idx=1&sn=e493663a103a1e18d0ceaef18c58c6f3&chksm=fa5aa29ccd2d2b8ad513f776ee8179c8f87d9ae6c6b55905e7c92832130d3f84d39d32b6b369&token=2084824719&lang=zh_CN#rd)
 + [.NET 表达式树(Expression Tree)执行命令](https://mp.weixin.qq.com/s/jRpHJUgrpnX2zXBBg_-M8A)
++ [.NET 高权限下利用16进制编码绕过注入防护](https://mp.weixin.qq.com/s/M-Fwp6TzDquBslJ7ubdvCQ)
 
 
 ## dotNet安全矩阵知识星球 
