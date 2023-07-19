@@ -13,7 +13,7 @@
 + [利用VB.NET Shell方法绕过防护执行命令](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247486577&idx=1&sn=e493663a103a1e18d0ceaef18c58c6f3&chksm=fa5aa29ccd2d2b8ad513f776ee8179c8f87d9ae6c6b55905e7c92832130d3f84d39d32b6b369&token=2084824719&lang=zh_CN#rd)
 + [.NET 表达式树(Expression Tree)执行命令](https://mp.weixin.qq.com/s/jRpHJUgrpnX2zXBBg_-M8A)
 + [.NET 高权限下利用16进制编码绕过注入防护](https://mp.weixin.qq.com/s/M-Fwp6TzDquBslJ7ubdvCQ)
-
++ [.NET 基于开放委托实现任意命令执行](https://mp.weixin.qq.com/s/LIWTlISwVx7XRk9_Ibu1aQ)
 
 ## dotNet安全矩阵知识星球 
 + 聚焦于微软.NET安全技术，关注基于.NET衍生出的各种红蓝攻防对抗技术、分享内容不限于 .NET代码审计、 最新的.NET漏洞分析、反序列化漏洞研究、有趣的.NET安全Trick、.NET开源软件分享、. NET生态等热点话题、还可以获得阿里、蚂蚁、字节等大厂内推的机会。
