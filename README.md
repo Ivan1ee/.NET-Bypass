@@ -14,7 +14,8 @@
 + [.NET 表达式树(Expression Tree)执行命令](https://mp.weixin.qq.com/s/jRpHJUgrpnX2zXBBg_-M8A)
 + [.NET 高权限下利用16进制编码绕过注入防护](https://mp.weixin.qq.com/s/M-Fwp6TzDquBslJ7ubdvCQ)
 + [.NET 基于开放委托实现任意命令执行](https://mp.weixin.qq.com/s/LIWTlISwVx7XRk9_Ibu1aQ)
-
++ [.NET 上传web.config文件实现RCE](https://mp.weixin.qq.com/s/xNOOkmFNwaArKDuzDTCoAA)
+  
 ## dotNet安全矩阵知识星球 
 + 聚焦于微软.NET安全技术，关注基于.NET衍生出的各种红蓝攻防对抗技术、分享内容不限于 .NET代码审计、 最新的.NET漏洞分析、反序列化漏洞研究、有趣的.NET安全Trick、.NET开源软件分享、. NET生态等热点话题、还可以获得阿里、蚂蚁、字节等大厂内推的机会。
 <img src="51121224455454T3.jpg" width="600" height="300" />
