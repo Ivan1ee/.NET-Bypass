@@ -5,6 +5,7 @@
 + [.NET WebShell 免杀系列之Unicode编码](https://mp.weixin.qq.com/s/VIsJlDmWGD0QcgBDDsRP9g)
 + [.NET WebShell 免杀系列之win32_Process](https://mp.weixin.qq.com/s/H_-g5xcdqMaXmysBnTBUug)
 + [.NET WebShell 免杀系列之XamlReader](https://mp.weixin.qq.com/s/xl3sa4cyFOuEocZSGtq6bA)
++ [.NET WebShell 免杀系列之适配蚁剑](https://mp.weixin.qq.com/s/wk_DVcL8rqeuAh4i-tvboQ)
 
 ## .NET各种姿势绕过系列课程在线阅读
 + [.NET 文件上传多个场景绕过预编译限制获取Shell](https://mp.weixin.qq.com/s/o9qZefyIAnaFWSME0g1Jzw)
