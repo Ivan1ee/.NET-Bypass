@@ -2,7 +2,8 @@
 .NET 免杀绕过、Tricks方法合集
 
 ## .NET免杀方法系列课程在线阅读
-+ [2024.05.10 .NET hvv必备的一款免杀WebShell](https://mp.weixin.qq.com/s/fy_sVwFNOGIMe-R6g6c4dQ)
++ [.NET 一款团队内部免杀的WebShell](https://mp.weixin.qq.com/s/PcICDek4OyaLu6RmDO58Ew)
++ [.NET hvv必备的一款免杀WebShell](https://mp.weixin.qq.com/s/fy_sVwFNOGIMe-R6g6c4dQ)
 + [.NET WebShell 免杀系列之Unicode编码](https://mp.weixin.qq.com/s/VIsJlDmWGD0QcgBDDsRP9g)
 + [.NET WebShell 免杀系列之win32_Process](https://mp.weixin.qq.com/s/H_-g5xcdqMaXmysBnTBUug)
 + [.NET WebShell 免杀系列之XamlReader](https://mp.weixin.qq.com/s/xl3sa4cyFOuEocZSGtq6bA)
