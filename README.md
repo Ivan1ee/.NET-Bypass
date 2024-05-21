@@ -10,6 +10,7 @@
 + [.NET WebShell 免杀系列之适配蚁剑](https://mp.weixin.qq.com/s/wk_DVcL8rqeuAh4i-tvboQ)
 
 ## .NET各种姿势绕过系列课程在线阅读
++ [.NET 漏洞分析绕过某和OA全局权限验证](https://mp.weixin.qq.com/s/fEbynwBOgDDuaimGb4rgdQ)
 + [.NET 文件上传多个场景绕过预编译限制获取Shell](https://mp.weixin.qq.com/s/o9qZefyIAnaFWSME0g1Jzw)
 + [.NET WebShell 免杀系列Ⅱ之Tricks分享](https://mp.weixin.qq.com/s/3pFFyJF3U9-sIHEF-T4wPA)
 + [老树开新花 .NET MVC上传绕过解析ascx](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247486399&idx=1&sn=1b891333ceb6ee6aa39d416a5a662e68&chksm=fa5aa552cd2d2c4455ca64d8741fadb469410b5827610d1f18201fff0ea8542068fddbbf5ee3&token=135931015&lang=zh_CN#rd)
