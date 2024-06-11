@@ -2,6 +2,7 @@
 .NET 免杀绕过、Tricks方法合集
 
 ## .NET免杀方法系列课程在线阅读
++ [.NET 一款基于WMI实现的免杀WebShell](https://mp.weixin.qq.com/s/v99kopKBtyYHvwGS_OvlMw)
 + [.NET 一款适合hvv实战免杀的cshtmlShell](https://mp.weixin.qq.com/s/i23fMvYn-KhNS047T1vPKw)
 + [.NET 一款团队内部免杀的WebShell](https://mp.weixin.qq.com/s/PcICDek4OyaLu6RmDO58Ew)
 + [.NET hvv必备的一款免杀WebShell](https://mp.weixin.qq.com/s/fy_sVwFNOGIMe-R6g6c4dQ)
