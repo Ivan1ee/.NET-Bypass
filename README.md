@@ -2,15 +2,9 @@
 .NET 免杀绕过、Tricks方法合集
 
 ## .NET免杀方法系列课程在线阅读
-+ [.NET 一个绕过WebShell解析策略的工具](https://mp.weixin.qq.com/s/eVGjVa754mWUHx6Y1AVhHg)
-+ [.NET 一款基于WMI实现的免杀WebShell](https://mp.weixin.qq.com/s/v99kopKBtyYHvwGS_OvlMw)
-+ [.NET 一款适合hvv实战免杀的cshtmlShell](https://mp.weixin.qq.com/s/i23fMvYn-KhNS047T1vPKw)
-+ [.NET 一款团队内部免杀的WebShell](https://mp.weixin.qq.com/s/PcICDek4OyaLu6RmDO58Ew)
-+ [.NET hvv必备的一款免杀WebShell](https://mp.weixin.qq.com/s/fy_sVwFNOGIMe-R6g6c4dQ)
 + [.NET WebShell 免杀系列之Unicode编码](https://mp.weixin.qq.com/s/VIsJlDmWGD0QcgBDDsRP9g)
 + [.NET WebShell 免杀系列之win32_Process](https://mp.weixin.qq.com/s/H_-g5xcdqMaXmysBnTBUug)
 + [.NET WebShell 免杀系列之XamlReader](https://mp.weixin.qq.com/s/xl3sa4cyFOuEocZSGtq6bA)
-+ [.NET WebShell 免杀系列之适配蚁剑](https://mp.weixin.qq.com/s/wk_DVcL8rqeuAh4i-tvboQ)
 
 ## .NET各种姿势绕过系列课程在线阅读
 + [.NET 漏洞分析绕过某和OA全局权限验证](https://mp.weixin.qq.com/s/fEbynwBOgDDuaimGb4rgdQ)
